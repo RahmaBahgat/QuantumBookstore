@@ -37,4 +37,8 @@ All use cases are demonstrated in the `QuantumBookstoreFullTest.java` file, cove
 
 ---
 
+Thank you for reviewing my submission. Looking forward to the internship experience.
+
+Rahma Bahgat Muhammad
+
 
